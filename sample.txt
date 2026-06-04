@@ -1,0 +1,5 @@
+Hello Student
+Welcome to CODTECH Internship
+This is File Handling Task
+
+New line added successfully
